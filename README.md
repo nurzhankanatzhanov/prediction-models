@@ -10,3 +10,8 @@ The candidate methods that I analyze and compare are:
  - Deep Neural network w/ ReLu activation function 🌐
 
 You can also find my report in a PDF attached in this repository.
+
+Tools/libraries used:
+- 🤖 [scikit-learn](https://scikit-learn.org/stable/)
+- 📒 Jupyter Notebooks
+- 🐼 [pandas](https://pandas.pydata.org/)
